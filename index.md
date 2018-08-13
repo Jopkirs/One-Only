@@ -13,7 +13,7 @@ For a better experience, while using our Service, I may require you to provide u
 
 The app does use third party services that may collect information used to identify you.
 
-Links to privacy policy of third party service providers used by the app
+Links to privacy policy of third party service providers used by the app.
 
 Google Play Services: https://policies.google.com/privacy
 
