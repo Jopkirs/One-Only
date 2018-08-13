@@ -15,15 +15,9 @@ The app does use third party services that may collect information used to ident
 
 Links to privacy policy of third party service providers used by the app.
 
-Google Play Services: https://policies.google.com/privacy
-
-AdMob: https://support.google.com/admob/answer/6128543?hl=en
-
-Firebase Analytics: https://firebase.google.com/policies/analytics/
-
-- [Quick start](https://policies.google.com/privacy)
-- [Status](https://policies.google.com/privacy)
-- [What's included](https://policies.google.com/privacy)
+- [Google Play Services](https://policies.google.com/privacy)
+- [AdMob](https://support.google.com/admob/answer/6128543?hl=en)
+- [Firebase Analytics](https://firebase.google.com/policies/analytics/)
 
 ## Log Data
 
